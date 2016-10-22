@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Simpler</string>
+    <string name="ACTION_SUCCESSFUL">Okay!</string>
+    <string name="ACTION_ERROR">Error occured</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="SERVER_URL">Server URL</string>
+</resources>
